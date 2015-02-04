@@ -34,18 +34,7 @@
     <body>
         <div class="reveal">
             <div class="slides">
-                <% _.forEach(slides, function(slide) { %>
-                    <% if (!_.isArray(slide)) { %>
-                        <%= section(slide) %>
-                    <% } %>
-                    <% if (_.isArray(slide)) { %>
-                        <section>
-                            <% _.forEach(slide, function(verticalslide) { %>
-                                <%= section(verticalslide) %>
-                            <% }); %>
-                        </section>
-                    <% } %>
-                <% }); %>
+<% _.forEach(slides, function(slide) { %><% if (!_.isArray(slide)) { %><%= section(slide) %><% } %><% if (_.isArray(slide)) { %><section><% _.forEach(slide, function(verticalslide) { %><%= section(verticalslide) %><% }); %></section><% } %><% }); %>
             </div>
         </div>
 
