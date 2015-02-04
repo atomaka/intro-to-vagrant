@@ -1,10 +1,3 @@
-
 # Vagrant
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+<small>Andrew Tomaka / [@atomaka](https://twitter.com/atomaka)</small>
