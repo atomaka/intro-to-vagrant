@@ -1,7 +1,19 @@
 ##  Usage
 
-This is a new Markdown slide
+* Primary commands
+  * ```vagrant up```
+  * ```vagrant ssh```
+  * ```vagrant destroy```
+* Others
+  * ```vagrant provision```
+  * ```vagrant halt```
+  * ```vagrant suspend```
+  * ```vagrant resume```
+  * ```vagrant push```
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Primary = mandatory; stuff I always use
+
+    Others = commands I sometimes use
+
+    Push - recent command for doing deploys; can deploy to heroku

@@ -1,7 +1,4 @@
 ##  Demonstration
 
-This is a new Markdown slide
-
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Repo available at https://github.com/atomaka/vagrant-farmers_markets

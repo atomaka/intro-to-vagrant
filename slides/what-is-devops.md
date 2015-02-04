@@ -1,7 +1,16 @@
 ##  What is DevOps?
 
-This is a new Markdown slide
+### Who?
+* <span style="color:red">**Dev**</span>eloper - That's you!
+* <span style="color:red">**Op**</span>eration<span style="color:red">**s**</span>
+  - Other IT staff; primarily those supporting your infrastructure
+
+### What?
+* Working together
+  * communication, collaboration, integration, automation, cooperation
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+  Marriage of developer and operation staffs
+
+  Too much of our responsibilities overlap to ignore one another.  Great gains
+  by working together
