@@ -1,9 +1,10 @@
 ##  What is DevOps?
 
 ### Who?
-* <span style="color:red">**Dev**</span>eloper - That's you!
+* <span style="color:red">**Dev**</span>eloper
+  * That's you!
 * <span style="color:red">**Op**</span>eration<span style="color:red">**s**</span>
-  - Other IT staff; primarily those supporting your infrastructure
+  * Other IT staff; primarily those supporting your infrastructure
 
 ### What?
 * Working together
