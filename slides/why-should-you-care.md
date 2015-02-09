@@ -1,9 +1,9 @@
 ##  Why should you care?
 
-* Difference between expectations and what actually happens
-* Reduce risk of mistakes
-* Reduces time from development to deployment
-* You actually know what is going on
+* Expectation vs Actual
+* (Human) mistakes
+* Time to deployment
+* Monitor
 
 note:
   As "but it works on my machine" shows. We've now created a consistency.
