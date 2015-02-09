@@ -12,8 +12,8 @@
   * ```vagrant push```
 
 note:
-    Primary = mandatory; stuff I always use
+    Primary: mandatory; stuff I always use
 
-    Others = commands I sometimes use
+    Others: commands I sometimes use
 
-    Push - recent command for doing deploys; can deploy to heroku
+    Push: recent command for doing deploys; can deploy to heroku

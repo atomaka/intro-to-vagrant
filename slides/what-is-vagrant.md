@@ -4,3 +4,7 @@
 environments."
 
 note:
+  Allows you to check your development environment into a git repository.
+
+  Can be configured to use a tool for provisioning to match your production
+  environment.
