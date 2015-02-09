@@ -1,7 +1,6 @@
 ##  Why should you care?
 
-This is a new Markdown slide
+* Difference between expectations and what actually happens
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+  As "but it works on my machine" shows

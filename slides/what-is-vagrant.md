@@ -1,7 +1,6 @@
 ##  What is Vagrant?
 
-This is a new Markdown slide
+> "Create and configure lightweight, reproducible, and portable development
+environments."
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

@@ -10,5 +10,10 @@
 * [Vagrant](http://www.vagrantup.com/downloads)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+  Requires a VM provider.  Virtual Box comes pre-packaged.  VMWare Fusion with
+  the pro version.
+
+  Also many other providers available as plugins including for many cloud
+  providers.
+
+  Requires Vagrant.
